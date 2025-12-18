@@ -5,31 +5,31 @@
 *It features projects and exercises covering server-side programming, database management, RESTful APIs, authentication, and more.
 *With detailed instructions for each project, it helps students and aspiring developers gain hands-on experience, improve coding skills, and build robust, scalable backend systems, preparing them for real-world challenges in software engineering.
 
-Getting Started
+# Getting Started
 To get started with the projects in this repository, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
+  git clone https://github.com/Hiqmah7/alx-javascript-backend.git
 
- git clone https://github.com/your-username/alx-backend.git
-Navigate to the project directory:
+2. Navigate to the project directory:
+  cd alx-backend
 
- cd alx-backend
-Follow the instructions in the individual project directories for setup and usage.
+3. Follow the instructions in the individual project directories for setup and usage.
 
-Contributing
+#Contributing
 We welcome contributions to this repository! If you would like to contribute, please follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch for your feature or bug fix:
-
+2. Create a new branch for your feature or bug fix:
  git checkout -b my-feature-branch
-Make your changes and commit them with descriptive commit messages.
 
-Push your changes to your forked repository:
+3. Make your changes and commit them with descriptive commit messages.
 
+4. Push your changes to your forked repository:
  git push origin my-feature-branch
-Create a pull request to the main repository, describing your changes and why they should be merged.
 
-License
+5. Create a pull request to the main repository, describing your changes and why they should be merged.
+
+# License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
