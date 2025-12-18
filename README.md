@@ -16,7 +16,7 @@ To get started with the projects in this repository, follow these steps:
 
 3. Follow the instructions in the individual project directories for setup and usage.
 
-#Contributing
+# Contributing
 We welcome contributions to this repository! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
