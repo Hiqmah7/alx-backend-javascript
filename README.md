@@ -9,7 +9,7 @@
 To get started with the projects in this repository, follow these steps:
 
 1. Clone the repository:
-  git clone https://github.com/Hiqmah7/alx-javascript-backend.git
+  git clone [https://github.com/Hiqmah7/alx-javascript-backend.git](https://github.com/Hiqmah7/alx-backend-javascript/blob/main/README.md)
 
 2. Navigate to the project directory:
   cd alx-backend
